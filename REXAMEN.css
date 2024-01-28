@@ -379,7 +379,7 @@ h1 {
     padding: 5px;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 350px) {
     body {
         margin: 0;
         background: linear-gradient(244deg, #6DFE7B 2.98%, rgba(143, 260, 147, 0.64) 24.6%, rgba(90, 250, 99, 0.53) 62.64%, rgba(29, 276, 0, 0.32) 71%, rgba(76, 254, 179, 0.26) 82.64%);
