@@ -8,14 +8,9 @@
 </head>
 <body>
 
-  <div class="SER">
-    Якщо ти хочеш почати роботу з сайтом натисни"почати роботу"
-  </div>
-
     <nav>
-        <a href="REXAMEN.html" class="lol">Почати роботу</a>
+        <a href="REXAMEN.html" class="lol">Продовжити</a>
     </nav>
-
     
 </body>
 </html>
