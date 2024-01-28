@@ -509,9 +509,9 @@ h1 {
     }
 
     h1 {
-        transform: translate(20px, 90px) rotate(-4.352deg);
+        transform: translate(30px, 110px) rotate(-4deg);
         width: 250px;
-        height: 15px;
+        height: 10px;
         color: #000; 
         text-shadow: 8px 6px 4px rgba(0, 0, 0, 0.25);
         font-family: Judson;
@@ -524,8 +524,7 @@ h1 {
     .DF {
         width: 234px;
         height: 1.5px;
-        transform: translate(30px, 50px) rotate(-5deg);
+        transform: translate(40px, 65px) rotate(-5deg);
         background: #000;
     }
 
-}
