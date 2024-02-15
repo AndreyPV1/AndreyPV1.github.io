@@ -21,11 +21,6 @@ body {
     padding: 35px;
 }
 
-.io {
-    background-color: red;
-    transform: translate(100px, 100px);
-}
-
 .page {
     color: #939393;
     text-decoration: none;
