@@ -22,6 +22,7 @@ body {
 }
 
 .io {
+    background-color: red;
     transform: translate(100px, 100px);
 }
 
